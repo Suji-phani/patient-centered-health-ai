@@ -38,9 +38,9 @@ This Streamlit-based MVP interface allows patients to enter symptom narratives (
 
 ##  Model Files
 
-To keep the repo lightweight, the following files are excluded:
+To keep the repo lightweight, the following file is excluded:
 - `nb_model.pkl`
-- `tfidf_vectorizer.pkl`
+
 
  These can be shared upon request or deployed alongside the app in a production setting.
 
